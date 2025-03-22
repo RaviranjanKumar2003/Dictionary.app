@@ -435,6 +435,9 @@
   .aspect-square {
     aspect-ratio: 1 / 1;
   }
+  .h-\[75vh\] {
+    height: 75vh;
+  }
   .h-\[80vh\] {
     height: 80vh;
   }
@@ -449,6 +452,9 @@
   }
   .min-h-screen {
     min-height: 100vh;
+  }
+  .w-1 {
+    width: calc(var(--spacing) * 1);
   }
   .w-1\/2 {
     width: calc(1/2 * 100%);

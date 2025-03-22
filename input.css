@@ -2,13 +2,13 @@
 
 
 .both{
-    @apply text-xl font-semibold rounded-sm p-1.5 shadow-sm
+    @apply text-xl font-semibold rounded-sm p-1.5 shadow-sm;
 }
 .result{
-    @apply bg-[#fff] p-6 rounded-xl mt-10 shadow-md shadow-black
+    @apply bg-[#fff] p-6 rounded-xl mt-10 shadow-md shadow-black;
 }
 .result p{
-    @apply mt-4
+    @apply mt-4;
 }
 .result li{
     @apply ml-5 p-.5
@@ -17,8 +17,8 @@
     @apply italic text-[#808080] 
 }
 .ank{
-    @apply mt-10
+    @apply mt-10;
 }
 .ank a{
-    @apply bg-[#008080] p-1.5 mt-6 rounded-sm text-white cursor-pointer text-base font-semibold
+    @apply bg-[#008080] p-1.5 mt-6 rounded-sm text-white cursor-pointer text-base font-semibold;
 }
